@@ -1,0 +1,6 @@
+name: RainbowSheep
+version: '${project.version}'
+main: me.nerfin.rainbowsheep.Plugin
+authors: [ NerFin ]
+description: This plugin will make the world of minecraft more colorful
+website: https://vk.com/nerf1npl
